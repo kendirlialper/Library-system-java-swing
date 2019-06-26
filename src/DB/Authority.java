@@ -5,10 +5,6 @@ package DB;/*
  */
 
 
-/**
- *
- * @author KayademirS
- */
 public class Authority {
 
     private int idAuthority;
