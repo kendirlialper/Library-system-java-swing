@@ -5,10 +5,6 @@ package DB;/*
  */
 
 
-/**
- *
- * @author KayademirS
- */
 public class Publisher {
     private int idPublisher;
     private String name;
