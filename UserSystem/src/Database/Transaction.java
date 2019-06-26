@@ -7,10 +7,7 @@ package Database;/*
 
 import java.sql.Date;
 
-/**
- *
- * @author KayademirS
- */
+
 public class Transaction {
 
     private Date d_of_desposit;
