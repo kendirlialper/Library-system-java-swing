@@ -7,10 +7,7 @@ package DB;/*
 
 import java.sql.Date;
 
-/**
- *
- * @author KayademirS
- */
+
 public class Books {
     private int idBook;
     private String name ;
