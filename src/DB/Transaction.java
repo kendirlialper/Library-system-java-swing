@@ -8,10 +8,7 @@ package DB;/*
 import java.sql.Date;
 import java.time.LocalDate;
 
-/**
- *
- * @author KayademirS
- */
+
 public class Transaction {
 
     private Date d_of_desposit;
