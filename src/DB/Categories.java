@@ -5,10 +5,7 @@ package DB;/*
  */
 
 
-/**
- *
- * @author KayademirS
- */
+
 public class Categories {
     private int idCategories;
     private String name;
