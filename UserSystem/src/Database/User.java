@@ -7,10 +7,7 @@ package Database;/*
 
 import java.sql.SQLException;
 
-/**
- *
- * @author KayademirS
- */
+
 public class User {
 
     private  String TC;
