@@ -5,10 +5,6 @@ package Database;/*
  */
 
 
-/**
- *
- * @author KayademirS
- */
 public class Books {
     private int idBook;
     private String name ;
