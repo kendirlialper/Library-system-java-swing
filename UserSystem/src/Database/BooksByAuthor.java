@@ -5,10 +5,6 @@ package Database;/*
  */
 
 
-/**
- *
- * @author KayademirS
- */
 public class BooksByAuthor {
 
     private int bookID;
